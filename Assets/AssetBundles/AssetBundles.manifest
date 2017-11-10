@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2426383901
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: startgame.something
+      Dependencies: {}
+    Info_1:
+      Name: startgame.scene
+      Dependencies:
+        Dependency_0: startgame.something
