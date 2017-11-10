@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 5682645
+CRC: 3544227427
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca0b5fe3ca4d8eda031e0e64fb6c7df3
+    Hash: 0863e330ee34e158da6a07b999610a42
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 93bea3c59194061aa2018b1f7751d49c
+    Hash: d498f97a1a666706e81e38ee1ec50266
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,8 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 65
+  Script: {instanceID: 0}
+- Class: 135
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefabs/Enemy2.prefab
